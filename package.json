@@ -1,0 +1,14 @@
+{
+  "name": "UrlDeviceInfo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "udi.js",
+  "scripts": {
+    "start": "node udi.js"
+  },
+  "author": "Alexandr Voronovich",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
