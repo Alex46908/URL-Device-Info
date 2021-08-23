@@ -5,7 +5,7 @@
 #### **Preparation for work**
 After downloading this repository, you need to do this:
 
-- Install node js (https://nodejs.org/) 
+- Install node js (https://nodejs.org) 
 
 - Enter the project folder and enter into the terminal ``npm install``
 
