@@ -4,7 +4,7 @@
   "description": "",
   "main": "udi.js",
   "scripts": {
-    "start": "node udi.js"
+    "start": "node udi.js -u https://ru.files.fm/u/wthhur6s9 -l"
   },
   "author": "Alexandr Voronovich",
   "license": "ISC",
